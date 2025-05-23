@@ -20,7 +20,7 @@
   "dependencies": {
     "@vue/babel-helper-vue-jsx-merge-props": "^1.2.1",
     "@vue/babel-preset-jsx": "^1.2.4",
-    "core-js": "^3.8.3",
+    "core-js": "^3.42.0",
     "element-ui": "^2.15.8",
     "vue": "^2.6.11",
     "vue-functional-data-merge": "^3.1.0",
